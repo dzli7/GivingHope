@@ -1,0 +1,42 @@
+{
+  "entries": [
+    {
+      "id": 0,
+      "name": "Nathan Z",
+      "age": 8,
+      "gift": "Firetruck",
+      "link": "/making-donation"
+    },
+    {
+      "name": "Daniel L",
+      "age": "8",
+      "gift": "Power Ranger",
+      "id": 2
+    },
+    {
+      "name": "Derek I",
+      "age": "12",
+      "gift": "Soccer ball",
+      "id": 3
+    },
+    {
+      "name": "Kate T",
+      "age": "6",
+      "gift": "Doll",
+      "id": 4
+    },
+    {
+      "name": "Nina S",
+      "age": "20",
+      "gift": "Despicable Me minion",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "email": "hcaceres@caltech.edu",
+      "password": "mypass",
+      "organization": "St. Pauls"
+    }
+  ]
+}
